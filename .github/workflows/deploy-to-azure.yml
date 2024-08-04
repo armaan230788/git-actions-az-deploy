@@ -1,6 +1,7 @@
 name: azure-deploy
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
 

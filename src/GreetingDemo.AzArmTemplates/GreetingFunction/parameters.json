@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "subscriptionId": {
-            "value": "b5807c0a-337d-46ac-97e4-8fec9853ef4a"
+            "value": "871d2250-9d30-4c57-bcc6-20e632bf0827"
         },
         "name": {
-            "value": "greetingservice"
+            "value": "secret_rotate"
         },
         "location": {
-            "value": "Australia Southeast"
+            "value": "East USt"
         },
         "hostingPlanName": {
             "value": "ASP-gitactionsdeployfuncdemo-8638"
